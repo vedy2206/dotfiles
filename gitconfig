@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = delacruz.yaya@gmail.com
+	name = victor de la cruz
